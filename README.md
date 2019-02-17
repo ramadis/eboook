@@ -12,6 +12,7 @@ Currently the extension supports the following websites:
 
 * [Espaebook](https://espaebook2.com)
 * [Bajaebooks](https://bajaebooks2.net)
+* [Bajaepub](http://bajaepub.com)
 
 ## Issues and collaboration
 
