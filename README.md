@@ -11,6 +11,7 @@ The realeased version is already available in [https://chrome.google.com/webstor
 Currently the extension supports the following websites:
 
 * [Espaebook](https://espaebook2.com)
+* [Bajaebooks](https://bajaebooks2.net)
 
 ## Issues and collaboration
 
