@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Eboook",
+  "description": "A tool to avoid ads in classic spanish ebook websites",
+  "version": "1",
+  "author": "Ramiro Olivera",
+  "content_scripts": [
+    {
+      "matches": ["*://*.espaebook2.com/*","*://*.mundofile.info/*"],
+      "js": ["options/espaebooks/download.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/16.png",
+      "24": "icons/24.png",
+      "32": "icons/32.png" 
+    }
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "permissions": ["activeTab", "tabs", "*://*.espaebook2.com/*", "*://*.mundofile.info/*"]
+ }
