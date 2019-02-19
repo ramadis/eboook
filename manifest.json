@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Eboook",
   "description": "A tool to avoid ads in classic spanish ebook websites",
-  "version": "1",
+  "version": "1.1",
   "author": "Ramiro Olivera",
   "content_scripts": [
     {
