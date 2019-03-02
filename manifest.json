@@ -34,5 +34,5 @@
     "48": "icons/48.png",
     "128": "icons/128.png"
   },
-  "permissions": ["activeTab", "tabs", "*://*.espaebook2.com/*", "*://*.mundofile.info/*", "*://*.bajafiles.com/*", "*://*.bajaebooks2.net/*", "*://*.bajaepub.com/*", "*://*.facildescarga.info/*"]
+  "permissions": ["activeTab", "tabs", "*://*.espaebook2.com/*", "*://*.mundofile.info/*", "*://*.bajafiles.com/*", "*://*.bajaebooks2.net/*", "*://*.bajaepub.com/*", "*://*.facildescarga.info/*", "*://*.epublibre.org/*"]
  }
