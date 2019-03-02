@@ -16,6 +16,10 @@
     {
       "matches" : ["*://*.bajafiles.com/*"],
       "js": ["options/bajaebooks/download.js"]
+    },
+    {
+      "matches" : ["*://*.beeupload.net/*"],
+      "js": ["options/lectulandia/download.js"]
     }
   ],
   "browser_action": {
@@ -34,5 +38,5 @@
     "48": "icons/48.png",
     "128": "icons/128.png"
   },
-  "permissions": ["activeTab", "tabs", "*://*.espaebook2.com/*", "*://*.mundofile.info/*", "*://*.bajafiles.com/*", "*://*.bajaebooks2.net/*", "*://*.bajaepub.com/*", "*://*.facildescarga.info/*", "*://*.epublibre.org/*"]
+  "permissions": ["activeTab", "tabs", "*://*.espaebook2.com/*", "*://*.mundofile.info/*", "*://*.bajafiles.com/*", "*://*.bajaebooks2.net/*", "*://*.bajaepub.com/*", "*://*.facildescarga.info/*", "*://*.epublibre.org/*", "*://*.beeupload.net/*", "*://*.lectulandia.com/*"]
  }

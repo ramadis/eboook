@@ -14,6 +14,7 @@ Currently the extension supports the following websites:
 * [Bajaebooks](https://bajaebooks2.net)
 * [Bajaepub](http://bajaepub.com)
 * [Epublibre](https://www.epublibre.org)
+* [Lectulandia](https://www.lectulandia.com)
 
 ## Issues and collaboration
 

@@ -7,6 +7,8 @@ chrome.browserAction.onClicked.addListener(function(tab) {
     file = "options/bajaebooks/onclick.js";
   else if (url.includes("bajaepub.com")) file = "options/bajaepub/onclick.js";
   else if (url.includes("epublibre.org")) file = "options/epublibre/onclick.js";
+  else if (url.includes("lectulandia.com"))
+    file = "options/lectulandia/onclick.js";
 
   chrome.tabs.executeScript({ file });
 });
