@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Eboook",
-  "description": "A tool to avoid ads in classic spanish ebook websites",
+  "description": "Evadí los anuncios y los virus en las páginas de descarga de Ebooks",
   "version": "1.2",
   "author": "Ramiro Olivera",
   "content_scripts": [
